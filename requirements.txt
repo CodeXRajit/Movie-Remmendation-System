@@ -1,0 +1,7 @@
+streamlit
+pickle5
+requests
+python-dotenv
+pandas
+numpy
+scikit-learn
